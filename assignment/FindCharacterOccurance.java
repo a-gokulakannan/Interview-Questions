@@ -17,7 +17,7 @@ public class FindCharacterOccurance {
 						count++;
 					}					
 				}
-				// print the output outside o
+				// print the output 
 				System.out.println(count);
 			}
 	}
